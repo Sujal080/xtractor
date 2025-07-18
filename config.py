@@ -11,7 +11,7 @@ class Config(object):
     
     DB_URL = "mongodb+srv://sujal:Sujal123@cluster0.qslxe7d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     
-    DB_NAME = "MY_BOT_DB"
+    DB_NAME = "Sujalbot"
     
     TXT_LOG = -1002799217873
     
@@ -25,7 +25,7 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/+58wq1Zq24_Q2ZTU1"
     
-    OWNER = "https://t.me/gjskisb"
+    OWNER = "https://t.me/+58wq1Zq24_Q2ZTU1"
     
     THUMB_URL = "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg" #Replace by with your Thumb URL
    
